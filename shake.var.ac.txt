@@ -727,6 +727,7 @@ Cleopatra</I> has been written once and for all time.
 <P><SC>August</SC>, 1907.
 <PB>
 <C><SC>Anthony and Cleopatra</SC></C>
+<!-- START -->
 <PB N=1>
 <BO>
 <C><B>Dramatis Per$on&aelig;</B></C>
@@ -25158,6 +25159,7 @@ of the victory.
 <NOTE>* Compare Pliny, <I>Natural History,</I> xxi, 78. [Book VII, chap. ii, p. 154, Holland's
 Trans. ed. 1635.]</NOTE>
 </CC>
+<!-- STOP -->
 <PB N=381>
 <C>APPENDIX</C>
 <SHL>

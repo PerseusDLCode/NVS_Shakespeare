@@ -781,6 +781,7 @@ Oriental Books,&rquo; published at Agra.) ..</CE><CE>Calcutta, n. d. (1818?)</CE
 <PB>
 <C><SC>Romeo and Juliet</SC></C>
 <PB>
+<!-- START -->
 <C>DRAMATIS PERSON&AElig;.<SUP>1</SUP></C>
 <P><SC>Escalus</SC>, prince of Verona.
 <P><SC>Paris</SC>, a young nobleman, kinsman to the prince.
@@ -23146,6 +23147,7 @@ Than this of <I>Iuliet</I> and her R<I>omeo.</I><LB N=2220>
 [Prof. Mommsen's Reprint of the Second Quarto, the lines of which are numbered
 on the same principle as the above, shows that the Second Quarto exceeds the First
 by seven hundred and seventy-three lines. <SC>Ed.</SC>]</NOTE>
+<!-- STOP -->
 <PB>
 <C>APPENDIX</C>
 <PB N=367>

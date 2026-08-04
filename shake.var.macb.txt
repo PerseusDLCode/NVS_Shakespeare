@@ -522,6 +522,7 @@ Aunt, <SC>Mrs A. L. Wister</SC>, for the translation of many passages from
 the German.
 <P>H. H. F., <SC>Jr.</SC>
 <P><I>January, 1903.</I>
+<!-- START -->
 <PB>
 <C>THE TRAGEDIE OF
 MACBETH</C>
@@ -18934,6 +18935,7 @@ Cleo.</I> I, i, 44. [See also V, iii, 54.]
 speaking these lines, addressed the audience rather than the <I>dramatis person&aelig;</I>, and
 made this utterance of thanks serve as a sort of epilogue.&mdash;<SC>Ed.</SC> ii.
 <P>93. <B>one]</B> For pronunciation, see II, i, 61; also III, iv, 162.</CC>
+<!-- STOP -->
 <PB>
 <C>APPENDIX</C>
 <PB N=353>

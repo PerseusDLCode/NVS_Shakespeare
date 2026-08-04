@@ -171,6 +171,7 @@ translation of my selections from the German in the Appendix.
 <P><SC>March</SC>, 1886
 <PB>
 <C><SC>Othello</SC></C>
+<!-- START -->
 <PB N=1>
 <BO><C>THE TRAGEDIE OF<LB>
 Othello, the Moore of Venice.</C><LB>
@@ -19262,6 +19263,7 @@ name (see I, iii, 168), but he translated it &lquo;superstitious.&rquo; <SC>Upto
 saying that &lquo;the name is not derived from <G>*deisidai/mwn</G>, but <G>*dusdai/mwn</G>, that is, the &ldquo;unfor-
 tunate&rdquo;; and Cinthio, making the word feminine, calls her <I>Disdemona.</I>&rquo; [See <SC>Hales</SC>.
 V, ii, 85.]</CC>
+<!-- STOP -->
 <PB>
 <C><B>APPENDIX</B></C>
 <PB N=339>

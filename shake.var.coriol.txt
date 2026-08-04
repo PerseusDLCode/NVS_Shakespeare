@@ -341,6 +341,7 @@ the Wine which it had once contained.
 <SHL>
 <R><CE><SC>Index</SC>................................................</CE><CE>749</CE></R>
 </T>
+<!-- START -->
 <PB N=1>
 <C><B>Dramatis Per$on&aelig;</B></C>
 <BO>
@@ -37040,6 +37041,7 @@ played until the whole procession had passed round the stage, in order doubtless
 to render the ceremonial more distinct and impressive. This, we believe, is a
 traditional practice which has ever since been continued.
 <PB>
+<!-- STOP -->
 <P><B>APPENDIX</B>
 <PB N=587>
 <C><B>APPENDIX</B></C>

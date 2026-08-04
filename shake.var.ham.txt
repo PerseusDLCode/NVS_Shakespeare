@@ -654,6 +654,7 @@ Attendants.</C>
 crosse</SC>. Han.</NOTE>
 <NOTE><SUP>3</SUP> Elsinore] Mal. Elsinoor. Rowe +. Elsinour. Cap. Elsineur. Steev. Den-
 mark. Glo+.</NOTE>
+<!-- START -->
 <PB N=3>
 <BO>
 <C>THE TRAGEDY OF<LB>
@@ -30233,6 +30234,7 @@ shrank. Why, then, any farther thought, in the awful presence of death, of crime
 conspiracies, vengeance? Think that he has been slain in battle, like his Sea. King
 forefathers; and let the booming cannon be his mourners.
 </CC>
+<!-- STOP -->
 <PB N=459>
 <C>INDEX TO SOME OF THE MORE IMPORTANT
 NOTES IN THE FIRST VOLUME</C>
