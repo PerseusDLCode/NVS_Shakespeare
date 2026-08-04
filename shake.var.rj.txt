@@ -20061,6 +20061,7 @@ a date (1303), and showing a tomb. It is a plain, open, and partly decayed sar-
 cophagus, with withered leaves in it, in a wild and desolate conventual garden, once
 a cemetery, now ruined to the very graves. The situation struck me as very appro-
 priate to the legend, being blighted as their love.
+<!-- STOP -->
 <PB N=301>
 <P>[<SC>In</SC> the following Reprint of the Quarto of 1597 I have adhered with the most
 scrupulous exactness to Mr Ashbee's Facsimile of 1866, executed under the super-
@@ -23147,7 +23148,6 @@ Than this of <I>Iuliet</I> and her R<I>omeo.</I><LB N=2220>
 [Prof. Mommsen's Reprint of the Second Quarto, the lines of which are numbered
 on the same principle as the above, shows that the Second Quarto exceeds the First
 by seven hundred and seventy-three lines. <SC>Ed.</SC>]</NOTE>
-<!-- STOP -->
 <PB>
 <C>APPENDIX</C>
 <PB N=367>
